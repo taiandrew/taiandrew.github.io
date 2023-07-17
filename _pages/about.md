@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD Candidate in Economics at UC Berkeley. My interests are primarily in microeconomic theory. 
+I am a PhD Candidate in Economics at UC Berkeley. My interests are primarily in microeconomic theory. Please see my CV:
 
 Prior, I was a research assistant at the Federal Reserve Bank of San Francisco and for Stefano DellaVigna at UC Berkeley.
 
