@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-## Working papers
+<h2 align='center'> Working papers </h2>
 
 **Revealed Preferences of One-Sided Matching** [[pdf](files/Tai_RevPrefOneSidedMatching.pdf)] [[arXiv](https://arxiv.org/abs/2210.14388)]
 <details>  
@@ -20,12 +20,13 @@ author_profile: true
 </details>
 
 	
-## Work in progress
+<h2 align='center'> Work in progress </h2>
 
 **Why Do Legislators Form Links? Network Analysis on the House** (with Kevin Dano and Will Sandholtz)
 
 
-## Pre-PhD publications
+<h2 align='center'> Pre-PhD publications </h2>
+
 “**International Transmission of Japanese Monetary Shocks under Low and Negative Interest Rates: A Global FAVAR Approach**” (with Mark Spiegel). 2019. Pacific Economic Review . 23 (1), 51-66 [[link](https://onlinelibrary.wiley.com/doi/10.1111/1468-0106.12252)]
 
 “**Measuring the Effects of Dollar Appreciation on Asia: A FAVAR Approach**” (with Zheng Liu and Mark Spiegel). 2017. Journal of International Money and Finance. [[link](https://www.sciencedirect.com/science/article/abs/pii/S0261560617300451?via%3Dihub)]
