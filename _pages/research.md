@@ -33,6 +33,8 @@ author_profile: true
 ---
 **Why Do Legislators Form Links? Network Analysis on the House** (with Kevin Dano and Will Sandholtz)
 
+**Learning? in Strategy-Proof Mechanisms** (with Will Sandholtz)
+
 
 ## Pre-PhD publications
 ---
