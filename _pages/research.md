@@ -27,13 +27,6 @@ author_profile: true
 <br><br/></div>
 
 
-
-	
-## Work in progress
----
-**Why Do Legislators Form Links? Network Analysis on the House** (with Kevin Dano and Will Sandholtz)
-
-
 ## Pre-PhD publications
 ---
 “**International Transmission of Japanese Monetary Shocks under Low and Negative Interest Rates: A Global FAVAR Approach**” (with Mark Spiegel). 2019. Pacific Economic Review . 23 (1), 51-66 [[link](https://onlinelibrary.wiley.com/doi/10.1111/1468-0106.12252)]
