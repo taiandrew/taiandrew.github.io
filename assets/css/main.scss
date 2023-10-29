@@ -40,15 +40,3 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
-
-@media {
-
-    .author__avatar {
-    display: table-cell;
-    vertical-align: top;
-    width: 80px; //original: 36px
-    height: 80px; //original: 36px
-    min-width: 80em;
-
-    }
-}
