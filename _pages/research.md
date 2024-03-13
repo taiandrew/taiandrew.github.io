@@ -23,8 +23,17 @@ author_profile: true
 [<a href="#/" onclick="visib('ObjInd')">click for abstract</a>]
 
 <div id="ObjInd" style="display: none; text-align: justify; line-height: 1.2">
-	We study the classic house-swapping problem of Shapley and Scarf (1974) in a setting where agents may have "objective" indifferences, i.e., indifferences that are shared by all agents. In other words, if any one agent is indifferent between two houses, then all agents are indifferent between those two houses. The most direct interpretation is the presence of multiple copies of the same object. Our setting is a special case of the house-swapping problem with general indifferences. We derive a simple, easily interpretable algorithm that produces the unique strict core allocation of the house-swapping market, if it exists. Our algorithm runs in square-polynomial time, a substantial improvement over the cubed time methods for the more general problem. 
+	We study the classic house-swapping problem of Shapley and Scarf (1974) in a setting where agents may have "objective" indifferences, i.e., indifferences that are shared by all agents. In other words, if any one agent is indifferent between two houses, then all agents are indifferent between those two houses. The most direct interpretation is the presence of multiple copies of the same object. Our setting is a special case of the house-swapping problem with general indifferences. We derive a simple, easily interpretable algorithm that produces the unique strict core allocation of the house-swapping market, if it exists. Our algorithm runs in square-polynomial time, an improvement over the cubed time methods for the more general problem. 
 <br><br/></div>
+
+
+## Work in progress
+---
+**Group Incentive Compatibility in a Market with Indivisible Goods: A Comment** (with Will Sandholtz)
+
+**Why Do Legislators form Links?**
+
+
 
 
 ## Pre-PhD publications
