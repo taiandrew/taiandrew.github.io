@@ -29,7 +29,8 @@ author_profile: true
 
 ## Work in progress
 ---
-**Group Incentive Compatibility in a Market with Indivisible Goods: A Comment** (with Will Sandholtz)
+**Group Incentive Compatibility in a Market with Indivisible Goods: A Comment** (with Will Sandholtz) 
+<br>*R&R Economics Letters, draft coming soon.*
 
 **Why Do Legislators form Links?**
 
