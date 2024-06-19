@@ -26,11 +26,18 @@ author_profile: true
 	We study the classic house-swapping problem of Shapley and Scarf (1974) in a setting where agents may have "objective" indifferences, i.e., indifferences that are shared by all agents. In other words, if any one agent is indifferent between two houses, then all agents are indifferent between those two houses. The most direct interpretation is the presence of multiple copies of the same object. Our setting is a special case of the house-swapping problem with general indifferences. We derive a simple, easily interpretable algorithm that produces the unique strict core allocation of the house-swapping market, if it exists. Our algorithm runs in square-polynomial time, an improvement over the cubed time methods for the more general problem. 
 <br><br/></div>
 
+**Group Incentive Compatibility in a Market with Indivisible Goods: A Comment** (with Will Sandholtz)	 
+*R&R Economics Letters*	 
+[[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4816432)] 
+[<a href="#/" onclick="visib('GroupInc')">click for abstract</a>]
+
+<div id="GroupInc" style="display: none; text-align: justify; line-height: 1.2">
+	We note that the proofs of Bird (1984), the first to show group strategy-proofness of top trading cycles (TTC), require correction. We provide a counterexample to a critical claim and present corrected proofs in the spirit of the originals.
+<br><br/></div>
+
 
 ## Work in progress
 ---
-**Group Incentive Compatibility in a Market with Indivisible Goods: A Comment** (with Will Sandholtz) 
-<br>*R&R Economics Letters, draft coming soon.*
 
 **Why Do Legislators form Links?**
 
