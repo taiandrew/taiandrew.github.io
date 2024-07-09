@@ -28,7 +28,7 @@ author_profile: true
 
 **Group Incentive Compatibility in a Market with Indivisible Goods: A Comment** (with Will Sandholtz)
 <br>*R&R, Economics Letters*
-<br>[[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4816432)] 
+<br>[[pdf](files/Tai_TTCGroupStratProof.pdf)] [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4816432)] 
 [<a href="#/" onclick="visib('GroupInc')">click for abstract</a>]
 
 <div id="GroupInc" style="display: none; text-align: justify; line-height: 1.2">
