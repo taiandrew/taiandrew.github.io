@@ -44,11 +44,11 @@ author_profile: true
 
 
 
-## Pre-PhD publications
+## Publications
 ---
-“**International Transmission of Japanese Monetary Shocks under Low and Negative Interest Rates: A Global FAVAR Approach**” (with Mark Spiegel). 2019. Pacific Economic Review . 23 (1), 51-66 [[link](https://onlinelibrary.wiley.com/doi/10.1111/1468-0106.12252)]
+“**International Transmission of Japanese Monetary Shocks under Low and Negative Interest Rates: A Global FAVAR Approach**” (with Mark Spiegel). 2019. Pacific Economic Review. 23 (1), 51-66 [[link](https://onlinelibrary.wiley.com/doi/10.1111/1468-0106.12252)]
 
-“**Measuring the Effects of Dollar Appreciation on Asia: A FAVAR Approach**” (with Zheng Liu and Mark Spiegel). 2017. Journal of International Money and Finance. [[link](https://www.sciencedirect.com/science/article/abs/pii/S0261560617300451?via%3Dihub)]
+“**Measuring the Effects of Dollar Appreciation on Asia: A FAVAR Approach**” (with Zheng Liu and Mark Spiegel). 2017. Journal of International Money and Finance. 74, 353-370. [[link](https://www.sciencedirect.com/science/article/abs/pii/S0261560617300451?via%3Dihub)]
 
 
 
