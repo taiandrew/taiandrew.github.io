@@ -32,7 +32,7 @@ author_profile: true
 [<a href="#/" onclick="visib('GroupInc')">click for abstract</a>]
 
 <div id="GroupInc" style="display: none; text-align: justify; line-height: 1.2">
-	We note that the proofs of Bird (1984), the first to show group strategy-proofness of top trading cycles (TTC), require correction. We provide a counterexample to a critical claim and present corrected proofs in the spirit of the originals.
+	We note that the proofs of Bird (1984), the first to show group strategy-proofness of top trading cycles (TTC), require correction. We provide a counterexample to a critical claim and present corrected proofs in the spirit of the originals. We also present a novel proof of strong group strategy-proofness using the corrected results.
 <br><br/></div>
 
 
