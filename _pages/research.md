@@ -17,7 +17,7 @@ author_profile: true
 	This paper studies the testable implications of the core in an exchange economy when agents' preferences are unknown. Through a revealed preferences perspective, I build a model in which the core is testable. The setting a pure exchange economy with indivisible goods and unit demand. The key identifying assumption is that agents' preferences are solely determined by observable characteristics. The setting and assumption allow me to build on earlier results and obtain if and only if conditions for rationalizability of the observed allocation. These conditions are meaningful, intuitive, and tractable. Further, the results formally link together the core, competitive equilibrium, and Afriat's theorem. I also develop a method to estimate utility parameters from repeated observations of exchange economies; the setting is akin to Fox (2010). The allocation being in the core implies necessary moment inequalities, which I use to obtain partial identification.
 <br><br/></div>
 
-**House-Swapping with Objective Indifferences** (with Will Sandholtz)
+**House-Swapping with Objective Indifferences** (with Will Sandholtz).
 <br>[[pdf](files/Tai_HouseSwapwObjIndiff.pdf)] 
 [[arXiv](https://arxiv.org/abs/2306.09529)]
 [<a href="#/" onclick="visib('ObjInd')">click for abstract</a>]
@@ -26,7 +26,7 @@ author_profile: true
 	We study the classic house-swapping problem of Shapley and Scarf (1974) in a setting where agents may have "objective" indifferences, i.e., indifferences that are shared by all agents. In other words, if any one agent is indifferent between two houses, then all agents are indifferent between those two houses. The most direct interpretation is the presence of multiple copies of the same object. Our setting is a special case of the house-swapping problem with general indifferences. We derive a simple, easily interpretable algorithm that produces the unique strict core allocation of the house-swapping market, if it exists. Our algorithm runs in square-polynomial time, an improvement over the cubed time methods for the more general problem. 
 <br><br/></div>
 
-**Group Incentive Compatibility in a Market with Indivisible Goods: A Comment** (with Will Sandholtz)
+**Group Incentive Compatibility in a Market with Indivisible Goods: A Comment** (with Will Sandholtz).
 <br>*Revisions requested, Economics Letters*
 <br>[[pdf](files/Tai_TTCGroupStratProof.pdf)] [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4816432)] 
 [<a href="#/" onclick="visib('GroupInc')">click for abstract</a>]
@@ -46,9 +46,10 @@ author_profile: true
 
 ## Publications
 ---
-“**International Transmission of Japanese Monetary Shocks under Low and Negative Interest Rates: A Global FAVAR Approach**” (with Mark Spiegel). 2019. Pacific Economic Review. 23 (1), 51-66. [[link](https://onlinelibrary.wiley.com/doi/10.1111/1468-0106.12252)]
+**International Transmission of Japanese Monetary Shocks under Low and Negative Interest Rates: A Global FAVAR Approach** (with Mark Spiegel). 2019. Pacific Economic Review. 23 (1), 51-66.
+<br>[[link](https://onlinelibrary.wiley.com/doi/10.1111/1468-0106.12252)]
 
-“**Measuring the Effects of Dollar Appreciation on Asia: A FAVAR Approach**” (with Zheng Liu and Mark Spiegel). 2017. Journal of International Money and Finance. 74, 353-370. [[link](https://www.sciencedirect.com/science/article/abs/pii/S0261560617300451?via%3Dihub)]
+**Measuring the Effects of Dollar Appreciation on Asia: A FAVAR Approach** (with Zheng Liu and Mark Spiegel). 2017. Journal of International Money and Finance. 74, 353-370. <br>[[link](https://www.sciencedirect.com/science/article/abs/pii/S0261560617300451?via%3Dihub)]
 
 
 
