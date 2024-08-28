@@ -26,14 +26,6 @@ author_profile: true
 	We study the classic house-swapping problem of Shapley and Scarf (1974) in a setting where agents may have "objective" indifferences, i.e., indifferences that are shared by all agents. In other words, if any one agent is indifferent between two houses, then all agents are indifferent between those two houses. The most direct interpretation is the presence of multiple copies of the same object. Our setting is a special case of the house-swapping problem with general indifferences. We derive a simple, easily interpretable algorithm that produces the unique strict core allocation of the house-swapping market, if it exists. Our algorithm runs in square-polynomial time, an improvement over the cubed time methods for the more general problem. 
 <br><br/></div>
 
-**Group Incentive Compatibility in a Market with Indivisible Goods: A Comment** (with Will Sandholtz).
-<br>*Forthcoming, Economics Letters*
-<br>[[pdf](files/Tai_TTCGroupStratProof.pdf)] [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4816432)] 
-[<a href="#/" onclick="visib('GroupInc')">click for abstract</a>]
-
-<div id="GroupInc" style="display: none; text-align: justify; line-height: 1.2">
-	We note that the proofs of Bird (1984), the first to show group strategy-proofness of top trading cycles (TTC), require correction. We provide a counterexample to a critical claim and present corrected proofs in the spirit of the originals. We also present a novel proof of strong group strategy-proofness using the corrected results.
-<br><br/></div>
 
 
 ## Work in progress
@@ -46,10 +38,19 @@ author_profile: true
 
 ## Publications
 ---
-**International Transmission of Japanese Monetary Shocks under Low and Negative Interest Rates: A Global FAVAR Approach** (with Mark Spiegel). 2019. Pacific Economic Review. 23 (1), 51-66.
+**Group Incentive Compatibility in a Market with Indivisible Goods: A Comment** (with Will Sandholtz).
+<br>2024. Economics Letters, 243.
+<br>[[link](https://doi.org/10.1016/j.econlet.2024.111938)] [[pdf](files/Tai_TTCGroupStratProof.pdf)]
+[<a href="#/" onclick="visib('GroupInc')">click for abstract</a>]
+
+<div id="GroupInc" style="display: none; text-align: justify; line-height: 1.2">
+	We note that the proofs of Bird (1984), the first to show group strategy-proofness of top trading cycles (TTC), require correction. We provide a counterexample to a critical claim and present corrected proofs in the spirit of the originals. We also present a novel proof of strong group strategy-proofness using the corrected results.
+<br><br/></div>
+
+**International Transmission of Japanese Monetary Shocks under Low and Negative Interest Rates: A Global FAVAR Approach** (with Mark Spiegel). 2019. Pacific Economic Review, 23 (1), 51-66.
 <br>[[link](https://onlinelibrary.wiley.com/doi/10.1111/1468-0106.12252)]
 
-**Measuring the Effects of Dollar Appreciation on Asia: A FAVAR Approach** (with Zheng Liu and Mark Spiegel). 2017. Journal of International Money and Finance. 74, 353-370. <br>[[link](https://www.sciencedirect.com/science/article/abs/pii/S0261560617300451?via%3Dihub)]
+**Measuring the Effects of Dollar Appreciation on Asia: A FAVAR Approach** (with Zheng Liu and Mark Spiegel). 2017. Journal of International Money and Finance, 74, 353-370. <br>[[link](https://www.sciencedirect.com/science/article/abs/pii/S0261560617300451?via%3Dihub)]
 
 
 
