@@ -38,14 +38,8 @@ author_profile: true
 
 ## Publications
 ---
-**Group Incentive Compatibility in a Market with Indivisible Goods: A Comment** (with Will Sandholtz).
-2024. Economics Letters, 243.
+**Group Incentive Compatibility in a Market with Indivisible Goods: A Comment** (with Will Sandholtz). 2024. Economics Letters, 243.
 <br>[[link](https://doi.org/10.1016/j.econlet.2024.111938)] [[pdf](files/Tai_TTCGroupStratProof.pdf)]
-[<a href="#/" onclick="visib('GroupInc')">click for abstract</a>]
-
-<div id="GroupInc" style="display: none; text-align: justify; line-height: 1.2">
-	We note that the proofs of Bird (1984), the first to show group strategy-proofness of top trading cycles (TTC), require correction. We provide a counterexample to a critical claim and present corrected proofs in the spirit of the originals. We also present a novel proof of strong group strategy-proofness using the corrected results.
-<br><br/></div>
 
 **International Transmission of Japanese Monetary Shocks under Low and Negative Interest Rates: A Global FAVAR Approach** (with Mark Spiegel). 2019. Pacific Economic Review, 23 (1), 51-66.
 <br>[[link](https://onlinelibrary.wiley.com/doi/10.1111/1468-0106.12252)]
