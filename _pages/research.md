@@ -39,7 +39,7 @@ author_profile: true
 ## Publications
 ---
 **Group Incentive Compatibility in a Market with Indivisible Goods: A Comment** (with Will Sandholtz).
-<br>2024. Economics Letters, 243.
+2024. Economics Letters, 243.
 <br>[[link](https://doi.org/10.1016/j.econlet.2024.111938)] [[pdf](files/Tai_TTCGroupStratProof.pdf)]
 [<a href="#/" onclick="visib('GroupInc')">click for abstract</a>]
 
