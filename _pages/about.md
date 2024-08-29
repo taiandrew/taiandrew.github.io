@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Andrew Tai, Economics PhD @ UC Berkeley"
+title: "Andrew Tai, Economist"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
