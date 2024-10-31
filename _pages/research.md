@@ -31,7 +31,7 @@ author_profile: true
 <br>[[pdf](files/Tai_SD_with_Indifferences.pdf)] 
 [<a href="#/" onclick="visib('SDIndiff')">click for abstract</a>]
 
-<div id="SdIndiff" style="display: none; text-align: justify; line-height: 1.2">
+<div id="SDIndiff" style="display: none; text-align: justify; line-height: 1.2">
 	Serial dictatorship (SD) is often used to allocate indivisible objects to participants. However, when participants may be indifferent between objects, the usual implementation is not Pareto efficient. We note the correct implementation of SD, which acts on social outcomes (allocations). We also note two other descriptions of the same mechanism, which do not require participants to choose between social outcomes.
 <br><br/></div>
 
