@@ -27,6 +27,13 @@ author_profile: true
 <br><br/></div>
 
 
+**New descriptions of serial dictatorship for house assignments with indifferences** (with Will Sandholtz).
+<br>[[pdf](files/Tai_SD_with_Indifferences.pdf)] 
+[<a href="#/" onclick="visib('ObjInd')">click for abstract</a>]
+
+<div id="ObjInd" style="display: none; text-align: justify; line-height: 1.2">
+<br><br/></div>
+
 
 ## Work in progress
 ---
