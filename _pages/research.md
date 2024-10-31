@@ -27,7 +27,7 @@ author_profile: true
 <br><br/></div>
 
 
-**New descriptions of serial dictatorship for house assignments with indifferences** (with Will Sandholtz).
+**New descriptions of serial dictatorship for object allocation with indifferences** (with Will Sandholtz).
 <br>[[pdf](files/Tai_SD_with_Indifferences.pdf)] 
 [<a href="#/" onclick="visib('SDIndiff')">click for abstract</a>]
 
