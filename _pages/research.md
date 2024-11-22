@@ -40,19 +40,33 @@ author_profile: true
 ---
 
 **Why Do Legislators form Links?**
+<br>
+[<a href="#/" onclick="visib('legislators')">description</a>]
+
+<div id="legislators" style="display: none; text-align: justify; line-height: 1.2">
+	We are analyzing network links in the House of Representatives via cosponsoring relationships.
+<br><br/></div>
+
+**Solutions for Congestion in Matching Markets (working title) (with Nadav Tadelis)**
+<br>
+[<a href="#/" onclick="visib('Congestion')">description</a>]
+
+<div id="Congestion" style="display: none; text-align: justify; line-height: 1.2">
+	We propose a novel modification of Deferred Acceptance where interviews are required to resolve preferences. Under restrictions on the mistakes in pre-interview rankings, an order of magnitude fewer interviews are required than the number of candidates. Simulations indicate the method's effectiveness, and we are establishing a theoretical justification.
+<br><br/></div>
 
 
 
 
 ## Publications
 ---
-**Group Incentive Compatibility in a Market with Indivisible Goods: A Comment** (with Will Sandholtz). 2024. Economics Letters, 243.
+**Group Incentive Compatibility in a Market with Indivisible Goods: A Comment** (with Will Sandholtz). 2024. Economics Letters.
 <br>[[link](https://doi.org/10.1016/j.econlet.2024.111938)] [[pdf](files/Tai_TTCGroupStratProof.pdf)]
 
-**International Transmission of Japanese Monetary Shocks under Low and Negative Interest Rates: A Global FAVAR Approach** (with Mark Spiegel). 2019. Pacific Economic Review, 23 (1), 51-66.
+**International Transmission of Japanese Monetary Shocks under Low and Negative Interest Rates: A Global FAVAR Approach** (with Mark Spiegel). 2019. Pacific Economic Review.
 <br>[[link](https://onlinelibrary.wiley.com/doi/10.1111/1468-0106.12252)]
 
-**Measuring the Effects of Dollar Appreciation on Asia: A FAVAR Approach** (with Zheng Liu and Mark Spiegel). 2017. Journal of International Money and Finance, 74, 353-370. <br>[[link](https://www.sciencedirect.com/science/article/abs/pii/S0261560617300451?via%3Dihub)]
+**Measuring the Effects of Dollar Appreciation on Asia: A FAVAR Approach** (with Zheng Liu and Mark Spiegel). 2017. Journal of International Money and Finance. <br>[[link](https://www.sciencedirect.com/science/article/abs/pii/S0261560617300451?via%3Dihub)]
 
 
 
