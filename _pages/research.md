@@ -20,9 +20,9 @@ author_profile: true
 **House-Swapping with Commodified Goods**
 <br> with Will Sandholtz
 <br>[[pdf](files/Tai_HouseSwapCommodified.pdf)] 
-[<a href="#/" onclick="visib('RevPref')">click for abstract</a>]
+[<a href="#/" onclick="visib('TTCcomm')">click for abstract</a>]
 
-<div id="RevPref" style="display: none; text-align: justify; line-height: 1.2">
+<div id="TTCcomm" style="display: none; text-align: justify; line-height: 1.2">
 We study the exchange of indivisible objects (“house-swapping”) when the goods may be commodified. In many house-swapping markets, some objects may effectively be indistinguishable from one another, as with dorm rooms or school seats. Thus, all agents are indifferent between copies of the same variety. We call this setting “commodified objects”. Top trading cycles (TTC) with fixed tie-breaking has been suggested and used in practice to deal with indifferences in house-swapping problems. However, with general indifferences, TTC with fixed tie-breaking is not Pareto efficient or group strategy-proof. Further, it may not select the strict core, even when it exists. In our setting, agents are always and only indifferent between copies of objects. In this setting, TTC with fixed tie-breaking maintains Pareto efficiency, group strategy-proofness, and strict core selection.
 <br><br/></div>
 
@@ -55,7 +55,6 @@ We study the exchange of indivisible objects (“house-swapping”) when the goo
 **Why Do Legislators form Links?**
 <br>
 [<a href="#/" onclick="visib('legislators')">description</a>]
-
 <div id="legislators" style="display: none; text-align: justify; line-height: 1.2">
 	We are analyzing network links in the House of Representatives via cosponsoring relationships.
 <br><br/></div>
@@ -74,13 +73,20 @@ We study the exchange of indivisible objects (“house-swapping”) when the goo
 
 ## Publications
 ---
-**Group Incentive Compatibility in a Market with Indivisible Goods: A Comment** (with Will Sandholtz). 2024. Economics Letters.
+**Group Incentive Compatibility in a Market with Indivisible Goods: A Comment** 
+<br> Economics Letters. 2024.
+<br> with Will Sandholtz
 <br>[[link](https://doi.org/10.1016/j.econlet.2024.111938)] [[pdf](files/Tai_TTCGroupStratProof.pdf)]
 
-**International Transmission of Japanese Monetary Shocks under Low and Negative Interest Rates: A Global FAVAR Approach** (with Mark Spiegel). 2019. Pacific Economic Review.
+**International Transmission of Japanese Monetary Shocks under Low and Negative Interest Rates: A Global FAVAR Approach** 
+<br> Pacific Economic Review. 2019.
+<br>with Mark Spiegel
 <br>[[link](https://onlinelibrary.wiley.com/doi/10.1111/1468-0106.12252)]
 
-**Measuring the Effects of Dollar Appreciation on Asia: A FAVAR Approach** (with Zheng Liu and Mark Spiegel). 2017. Journal of International Money and Finance. <br>[[link](https://www.sciencedirect.com/science/article/abs/pii/S0261560617300451?via%3Dihub)]
+**Measuring the Effects of Dollar Appreciation on Asia: A FAVAR Approach**
+<br> Journal of International Money and Finance. 2017.
+<br> with Zheng Liu and Mark Spiegel
+<br>[[link](https://www.sciencedirect.com/science/article/abs/pii/S0261560617300451?via%3Dihub)]
 
 
 
