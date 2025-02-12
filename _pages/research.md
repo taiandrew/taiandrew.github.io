@@ -19,7 +19,8 @@ author_profile: true
 
 **House-Swapping with Commodified Goods**
 <br> with Will Sandholtz
-<br>[[pdf](files/Tai_HouseSwapCommodified.pdf)] 
+<br> [Email for draft]
+<!-- <br>[[pdf](files/Tai_HouseSwapCommodified.pdf)]  -->
 [<a href="#/" onclick="visib('TTCcomm')">click for abstract</a>]
 
 <div id="TTCcomm" style="display: none; text-align: justify; line-height: 1.2">
@@ -38,15 +39,6 @@ We study the exchange of indivisible objects (“house-swapping”) when the goo
 	We study the classic house-swapping problem of Shapley and Scarf (1974) in a setting where agents may have "objective" indifferences, i.e., indifferences that are shared by all agents. In other words, if any one agent is indifferent between two houses, then all agents are indifferent between those two houses. The most direct interpretation is the presence of multiple copies of the same object. Our setting is a special case of the house-swapping problem with general indifferences. We derive a simple, easily interpretable algorithm that produces the unique strict core allocation of the house-swapping market, if it exists. Our algorithm runs in square-polynomial time, an improvement over the cubed time methods for the more general problem. 
 <br><br/></div>
 
-
-**New descriptions of serial dictatorship for object allocation with indifferences** 
-<br> with Will Sandholtz
-<br>[[pdf](files/Tai_SD_with_Indifferences.pdf)] 
-[<a href="#/" onclick="visib('SDIndiff')">click for abstract</a>]
-
-<div id="SDIndiff" style="display: none; text-align: justify; line-height: 1.2">
-	Serial dictatorship (SD) is often used to allocate indivisible objects to participants. However, when participants may be indifferent between objects, the usual implementation is not Pareto efficient. We note the correct implementation of SD, which acts on social outcomes (allocations). We also note two other descriptions of the same mechanism, which do not require participants to choose between social outcomes.
-<br><br/></div>
 
 
 ## Work in progress
