@@ -17,14 +17,14 @@ author_profile: true
 	This paper studies the testable implications of the core in an exchange economy when agents' preferences are unknown. Through a revealed preferences perspective, I build a model in which the core is testable. The setting a pure exchange economy with indivisible goods and unit demand. The key identifying assumption is that agents' preferences are solely determined by observable characteristics. The setting and assumption allow me to build on earlier results and obtain if and only if conditions for rationalizability of the observed allocation. These conditions are meaningful, intuitive, and tractable. Further, the results formally link together the core, competitive equilibrium, and Afriat's theorem. I also develop a method to estimate utility parameters from repeated observations of exchange economies; the setting is akin to Fox (2010). The allocation being in the core implies necessary moment inequalities, which I use to obtain partial identification.
 <br><br/></div>
 
-**House-Swapping with Commodified Goods**
+**Shapley-Scarf Markets with Objective Indifferences**
 <br> with Will Sandholtz
-<br> [Email for draft]
-<!-- <br>[[pdf](files/Tai_HouseSwapCommodified.pdf)]  -->
+<br>[[pdf](files/Tai_ShapleyScarfwObjIndiff.pdf)]
+[[arXiv](https://arxiv.org/abs/2503.18144)]
 [<a href="#/" onclick="visib('TTCcomm')">click for abstract</a>]
 
 <div id="TTCcomm" style="display: none; text-align: justify; line-height: 1.2">
-We study the exchange of indivisible objects (“house-swapping”) when the goods may be commodified. In many house-swapping markets, some objects may effectively be indistinguishable from one another, as with dorm rooms or school seats. Thus, all agents are indifferent between copies of the same variety. We call this setting “commodified objects”. Top trading cycles (TTC) with fixed tie-breaking has been suggested and used in practice to deal with indifferences in house-swapping problems. However, with general indifferences, TTC with fixed tie-breaking is not Pareto efficient or group strategy-proof. Further, it may not select the strict core, even when it exists. In our setting, agents are always and only indifferent between copies of objects. In this setting, TTC with fixed tie-breaking maintains Pareto efficiency, group strategy-proofness, and strict core selection.
+In many object allocation problems, some of the objects may effectively be indistinguishable from each other, such as with dorm rooms or school seats. In such cases, it is reasonable to assume that agents are indifferent between identical copies of the same object. We call this setting "objective indifferences." Top trading cycles (TTC) with fixed tie-breaking has been suggested and used in practice to deal with indifferences in object allocation problems. Under general indifferences, TTC with fixed tie-breaking is not Pareto efficient nor group strategy-proof. Furthermore, it may not select the core, even when it exists. Under objective indifferences, agents are always and only indifferent between copies of the same object. In this setting, TTC with fixed tie-breaking maintains Pareto efficiency, group strategy-proofness, and core selection. In fact, we present domain characterization results which together show that objective indifferences is the most general setting where TTC with fixed tie-breaking maintains these important properties.
 <br><br/></div>
 
 
@@ -46,6 +46,7 @@ We study the exchange of indivisible objects (“house-swapping”) when the goo
 
 **Why Do Legislators form Links?**
 <br>
+[[dashboard](https://taiandrew.github.io/senateNetwork/)]
 [<a href="#/" onclick="visib('legislators')">description</a>]
 <div id="legislators" style="display: none; text-align: justify; line-height: 1.2">
 	We are analyzing network links in the House of Representatives via cosponsoring relationships.
