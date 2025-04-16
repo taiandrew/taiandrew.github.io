@@ -46,6 +46,7 @@ In many object allocation problems, some of the objects may effectively be indis
 
 **Why Do Legislators form Links?**
 <br>
+[[short write-up](files/Tai_senateNetworks.pdf)]
 [[dashboard](https://taiandrew.github.io/senateNetwork/)]
 [<a href="#/" onclick="visib('legislators')">description</a>]
 <div id="legislators" style="display: none; text-align: justify; line-height: 1.2">
