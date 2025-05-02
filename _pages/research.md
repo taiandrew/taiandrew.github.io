@@ -70,7 +70,7 @@ In many object allocation problems, some of the objects may effectively be indis
 **Group Incentive Compatibility in a Market with Indivisible Goods: A Comment** 
 <br> Economics Letters. 2024.
 <br> with Will Sandholtz
-<br>[[link](https://doi.org/10.1016/j.econlet.2024.111938)] [[pdf](files/Tai_TTCGroupStratProof.pdf)]
+<br>[[link](https://doi.org/10.1016/j.econlet.2024.111938)] [[pdf (WP)](files/Tai_TTCGroupStratProof.pdf)]
 
 **International Transmission of Japanese Monetary Shocks under Low and Negative Interest Rates: A Global FAVAR Approach** 
 <br> Pacific Economic Review. 2019.
