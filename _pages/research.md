@@ -19,7 +19,7 @@ author_profile: true
 
 **Shapley-Scarf Markets with Objective Indifferences**
 <br> with Will Sandholtz
-<br>[[pdf](files/Tai_ShapleyScarfwObjIndiff.pdf)]
+<br>[[pdf](files/Tai - Shapley and Scarf with Objective Indiff.pdf)]
 [[arXiv](https://arxiv.org/abs/2503.18144)]
 [<a href="#/" onclick="visib('TTCcomm')">click for abstract</a>]
 
