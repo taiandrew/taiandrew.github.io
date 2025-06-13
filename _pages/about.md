@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor of Economics at the [Defense Resources Management Institute](https://nps.edu/web/drmi), located at the [Naval Postgraduate School](https://nps.edu/) (NPS). I also teach at the Dept. of Defense Management (NPS's business school). I received my PhD in Economics from UC Berkeley.
-
-My interests are primarily in microeconomic theory. Please see my [CV](files/Tai_CV.pdf).
+I am an economist working primarily in microeconomic theory. I received my PhD in Economics from UC Berkeley in 2024, and a B.A. in Economics and Applied Mathematics, also from UC Berkeley.
 
 
 **Contact:** andrew.tai@nps.edu
