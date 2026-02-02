@@ -78,17 +78,17 @@ In many object allocation problems, some of the objects may be indistinguishable
 **Group Incentive Compatibility in a Market with Indivisible Goods: A Comment** 
 <br> Economics Letters. 2024.
 <br> with Will Sandholtz
-<br>[[link](https://doi.org/10.1016/j.econlet.2024.111938)] [[pdf (WP)](files/Tai_TTCGroupStratProof.pdf)]
+<br>[[link](https://doi.org/10.1016/j.econlet.2024.111938)] [[PDF (working paper version)](files/Tai_TTCGroupStratProof.pdf)]
 
 **International Transmission of Japanese Monetary Shocks under Low and Negative Interest Rates: A Global FAVAR Approach** 
 <br> Pacific Economic Review. 2019.
 <br>with Mark Spiegel
-<br>[[link](https://onlinelibrary.wiley.com/doi/10.1111/1468-0106.12252)]
+<br>[[link](https://doi.org/10.1111/1468-0106.12252)]
 
 **Measuring the Effects of Dollar Appreciation on Asia: A FAVAR Approach**
 <br> Journal of International Money and Finance. 2017.
 <br> with Zheng Liu and Mark Spiegel
-<br>[[link](https://www.sciencedirect.com/science/article/abs/pii/S0261560617300451?via%3Dihub)]
+<br>[[link](https://doi.org/10.1016/j.jimonfin.2017.02.025)]
 
 
 
