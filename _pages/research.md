@@ -9,18 +9,18 @@ author_profile: true
 ---
 
 **Revealed Preferences of One-Sided Matching**
-<br>[[pdf](files/Tai_RevPrefOneSidedMatching.pdf)] 
-[[arXiv](https://arxiv.org/abs/2210.14388)] 
+<br>
+[[PDF (arXiv)](https://arxiv.org/pdf/2210.14388)] 
 [<a href="#/" onclick="visib('RevPref')">click for abstract</a>]
 
 <div id="RevPref" style="display: none; text-align: justify; line-height: 1.2">
 	This paper studies the testable implications of the core in an exchange economy when agents' preferences are unknown. Through a revealed preferences perspective, I build a model in which the core is testable. The setting a pure exchange economy with indivisible goods and unit demand. The key identifying assumption is that agents' preferences are solely determined by observable characteristics. The setting and assumption allow me to build on earlier results and obtain if and only if conditions for rationalizability of the observed allocation. These conditions are meaningful, intuitive, and tractable. Further, the results formally link together the core, competitive equilibrium, and Afriat's theorem. I also develop a method to estimate utility parameters from repeated observations of exchange economies; the setting is akin to Fox (2010). The allocation being in the core implies necessary moment inequalities, which I use to obtain partial identification.
 <br><br/></div>
 
-**Shapley-Scarf Markets with Objective Indifferences**
+**Shapley-Scarf Markets with Objective Indifferences**. Submitted.
 <br> with Will Sandholtz
-<br>[[pdf](files/Tai - Shapley and Scarf with Objective Indiff.pdf)]
-[[arXiv](https://arxiv.org/abs/2503.18144)]
+<br>
+[[PDF (arXiv)](https://arxiv.org/pdf/2503.18144)]
 [<a href="#/" onclick="visib('TTCcomm')">click for abstract</a>]
 
 <div id="TTCcomm" style="display: none; text-align: justify; line-height: 1.2">
@@ -31,8 +31,7 @@ In many object allocation problems, some of the objects may be indistinguishable
 
 **House-Swapping with Objective Indifferences**
 <br> with Will Sandholtz
-<br>[[pdf](files/Tai_HouseSwapwObjIndiff.pdf)] 
-[[arXiv](https://arxiv.org/abs/2306.09529)]
+<br> [[PDF (arXiv)](https://arxiv.org/pdf/2306.09529)]
 [<a href="#/" onclick="visib('ObjInd')">click for abstract</a>]
 
 <div id="ObjInd" style="display: none; text-align: justify; line-height: 1.2">
