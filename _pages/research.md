@@ -46,8 +46,8 @@ In many object allocation problems, some of the objects may be indistinguishable
 **Random Matching with Minimums**
 <br> With Will Sandholtz
 <br>
-[<a href="#/" onclick="visib('legislators')">description</a>]
-<div id="legislators" style="display: none; text-align: justify; line-height: 1.2">
+[<a href="#/" onclick="visib('random_mins')">description</a>]
+<div id="random_mins" style="display: none; text-align: justify; line-height: 1.2">
 	We consider the problem random assignment of agents to objects when objects may have minimum and maximum capacity requirements. Applying Balbunzanov (2022), we generalize the Probabilistic Serial mechanism of Bogomolnaia and Moulin (2001) to our setting. The resulting eating mechanism is *stochastic dominance efficient*, meaning no other random assignment stochastically dominates it according to agents' ordinal preferences.
 <br><br/></div>
 
