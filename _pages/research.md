@@ -91,6 +91,12 @@ In many object allocation problems, some of the objects may be indistinguishable
 <br>[[link](https://doi.org/10.1016/j.jimonfin.2017.02.025)]
 
 
+## Conference papers, etc.
+---
+**AI Collusion in Procurement Auctions** 
+<br> Appeared in the Naval Postgraduate School Acquisition Research Symposium, 2026.
+[[PDF (working paper version)](files/Tai_AICollusion.pdf)]
+
 
 
 [//]: This java script is the button to show abstract
