@@ -8,7 +8,7 @@ author_profile: true
 ## Working papers
 ---
 
-**Revealed Preferences of One-Sided Matching**
+- **Revealed Preferences of One-Sided Matching**
 <br>
 [[PDF (arXiv)](https://arxiv.org/pdf/2210.14388)] 
 [<a href="#/" onclick="visib('RevPref')">click for abstract</a>]
@@ -17,7 +17,7 @@ author_profile: true
 	This paper studies the testable implications of the core in an exchange economy when agents' preferences are unknown. Through a revealed preferences perspective, I build a model in which the core is testable. The setting a pure exchange economy with indivisible goods and unit demand. The key identifying assumption is that agents' preferences are solely determined by observable characteristics. The setting and assumption allow me to build on earlier results and obtain if and only if conditions for rationalizability of the observed allocation. These conditions are meaningful, intuitive, and tractable. Further, the results formally link together the core, competitive equilibrium, and Afriat's theorem. I also develop a method to estimate utility parameters from repeated observations of exchange economies; the setting is akin to Fox (2010). The allocation being in the core implies necessary moment inequalities, which I use to obtain partial identification.
 <br><br/></div>
 
-**Shapley-Scarf Markets with Objective Indifferences**. Submitted.
+- **Shapley-Scarf Markets with Objective Indifferences**. Submitted.
 <br> with Will Sandholtz
 <br>
 [[PDF (arXiv)](https://arxiv.org/pdf/2503.18144)]
@@ -27,9 +27,7 @@ author_profile: true
 In many object allocation problems, some of the objects may be indistinguishable from each other, such as with dorm rooms or school seats. We call this setting "objective indifferences," describing situations where all agents are indifferent between identical copies. Thus matching mechanisms in such settings should account for indifferences. Top trading cycles (TTC) with fixed tie-breaking has been suggested and used in practice to deal with indifferences in object allocation problems. Under general indifferences, TTC with fixed tie-breaking is not Pareto efficient nor group strategy-proof. Furthermore, it may not select the core, even when it exists. However, under objective indifferences, agents are always and only indifferent between copies of the same object. In this setting, TTC with fixed tie-breaking maintains Pareto efficiency, group strategy-proofness, and core selection. Further, we show that objective indifferences is the most general setting where TTC with fixed tie-breaking maintains these important properties.
 <br><br/></div>
 
-
-
-**House-Swapping with Objective Indifferences**
+- **House-Swapping with Objective Indifferences**
 <br> with Will Sandholtz
 <br> [[PDF (arXiv)](https://arxiv.org/pdf/2306.09529)]
 [<a href="#/" onclick="visib('ObjInd')">click for abstract</a>]
@@ -43,7 +41,7 @@ In many object allocation problems, some of the objects may be indistinguishable
 ## Work in progress
 ---
 
-**Random Matching with Minimums**
+- **Random Matching with Minimums**
 <br> With Will Sandholtz
 <br>
 [<a href="#/" onclick="visib('random_mins')">description</a>]
@@ -52,7 +50,7 @@ In many object allocation problems, some of the objects may be indistinguishable
 <br><br/></div>
 
 
-**Why Do Legislators form Links?**
+- **Why Do Legislators form Links?**
 <br>
 [[short write-up](/files/Tai_senateNetworks.pdf)]
 [<a href="#/" onclick="visib('legislators')">description</a>]
@@ -60,7 +58,7 @@ In many object allocation problems, some of the objects may be indistinguishable
 	We are analyzing network links in the House of Representatives via cosponsoring relationships.
 <br><br/></div>
 
-**Solutions for Congestion in Matching Markets (working title)**
+- **Solutions for Congestion in Matching Markets (working title)**
 <br>with Nadav Tadelis
 <br>
 [<a href="#/" onclick="visib('Congestion')">description</a>]
@@ -74,17 +72,17 @@ In many object allocation problems, some of the objects may be indistinguishable
 
 ## Publications
 ---
-**Group Incentive Compatibility in a Market with Indivisible Goods: A Comment** 
+- **Group Incentive Compatibility in a Market with Indivisible Goods: A Comment** 
 <br> Economics Letters. 2024.
 <br> with Will Sandholtz
 <br>[[link](https://doi.org/10.1016/j.econlet.2024.111938)] [[PDF (working paper version)](/files/Tai_TTCGroupStratProof.pdf)]
 
-**International Transmission of Japanese Monetary Shocks under Low and Negative Interest Rates: A Global FAVAR Approach** 
+- **International Transmission of Japanese Monetary Shocks under Low and Negative Interest Rates: A Global FAVAR Approach** 
 <br> Pacific Economic Review. 2019.
 <br>with Mark Spiegel
 <br>[[link](https://doi.org/10.1111/1468-0106.12252)]
 
-**Measuring the Effects of Dollar Appreciation on Asia: A FAVAR Approach**
+- **Measuring the Effects of Dollar Appreciation on Asia: A FAVAR Approach**
 <br> Journal of International Money and Finance. 2017.
 <br> with Zheng Liu and Mark Spiegel
 <br>[[link](https://doi.org/10.1016/j.jimonfin.2017.02.025)]
@@ -92,9 +90,13 @@ In many object allocation problems, some of the objects may be indistinguishable
 
 ## Conference papers, etc.
 ---
-**AI Collusion in Procurement Auctions** 
+- **AI Collusion in Procurement Auctions** 
 <br> Appeared in the Naval Postgraduate School Acquisition Research Symposium, 2026.
+<<<<<<< Updated upstream
 [[PDF (working paper version)](/files/Tai_AICollusion.pdf)]
+=======
+<br> [[PDF (working paper version)](files/Tai_AICollusion.pdf)]
+>>>>>>> Stashed changes
 
 
 
