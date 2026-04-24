@@ -54,8 +54,7 @@ In many object allocation problems, some of the objects may be indistinguishable
 
 **Why Do Legislators form Links?**
 <br>
-[[short write-up](files/Tai_senateNetworks.pdf)]
-[[dashboard](https://taiandrew.github.io/senateNetwork/)]
+[[short write-up](/files/Tai_senateNetworks.pdf)]
 [<a href="#/" onclick="visib('legislators')">description</a>]
 <div id="legislators" style="display: none; text-align: justify; line-height: 1.2">
 	We are analyzing network links in the House of Representatives via cosponsoring relationships.
@@ -78,7 +77,7 @@ In many object allocation problems, some of the objects may be indistinguishable
 **Group Incentive Compatibility in a Market with Indivisible Goods: A Comment** 
 <br> Economics Letters. 2024.
 <br> with Will Sandholtz
-<br>[[link](https://doi.org/10.1016/j.econlet.2024.111938)] [[PDF (working paper version)](files/Tai_TTCGroupStratProof.pdf)]
+<br>[[link](https://doi.org/10.1016/j.econlet.2024.111938)] [[PDF (working paper version)](/files/Tai_TTCGroupStratProof.pdf)]
 
 **International Transmission of Japanese Monetary Shocks under Low and Negative Interest Rates: A Global FAVAR Approach** 
 <br> Pacific Economic Review. 2019.
@@ -95,7 +94,7 @@ In many object allocation problems, some of the objects may be indistinguishable
 ---
 **AI Collusion in Procurement Auctions** 
 <br> Appeared in the Naval Postgraduate School Acquisition Research Symposium, 2026.
-[[PDF (working paper version)](files/Tai_AICollusion.pdf)]
+[[PDF (working paper version)](/files/Tai_AICollusion.pdf)]
 
 
 
