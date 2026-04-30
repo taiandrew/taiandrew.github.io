@@ -18,7 +18,7 @@
 
 .page {
   @include breakpoint($large) {
-    @include span(7 of 12 last);    // Changed from 9; also need to change _sidebar.scss
+    @include span(8 of 12 last);    // Changed from 9; also need to change _sidebar.scss
     @include prefix(0.5 of 12);
     @include suffix(2 of 12);
   }
