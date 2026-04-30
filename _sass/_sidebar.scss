@@ -14,7 +14,7 @@
   margin-bottom: 1em;
 
   @include breakpoint($large) {
-    @include span(3 of 12);   // Changed from 3; also need to change _page.scss and _archive.scss
+    @include span(3 of 12);   // Changed from 2; also need to change _page.scss and _archive.scss
     opacity: 1;
     -webkit-transition: opacity 0.2s ease-in-out;
             transition: opacity 0.2s ease-in-out;
