@@ -73,9 +73,9 @@ In many object allocation problems, some of the objects may be indistinguishable
 ## Publications
 ---
 - **Group Incentive Compatibility in a Market with Indivisible Goods: A Comment** 
-<br> Economics Letters. 2024.
-<br> with Will Sandholtz
-<br>[[link](https://doi.org/10.1016/j.econlet.2024.111938)] [[PDF (working paper version)](/files/Tai_TTCGroupStratProof.pdf)]
+	<br> Economics Letters. 2024.
+	<br> with Will Sandholtz
+	<br>[[link](https://doi.org/10.1016/j.econlet.2024.111938)] [[PDF (working paper version)](/files/Tai_TTCGroupStratProof.pdf)]
 
 - **International Transmission of Japanese Monetary Shocks under Low and Negative Interest Rates: A Global FAVAR Approach** 
 <br> Pacific Economic Review. 2019.
