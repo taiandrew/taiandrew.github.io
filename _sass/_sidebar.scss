@@ -123,7 +123,7 @@
 
 .author__bio {
   margin: 0;
-  font-size: $type-size-5; /* Add this line to scale up the subtitle */
+  font-size: $type-size-4; /* Add this line to scale up the subtitle */
 
   @include breakpoint($large) {
     margin-top: 10px;
