@@ -1,16 +1,26 @@
 .container {
-    width:100%;
-    border:1px solid #d3d3d3;
+    width: auto; /* Changed from 100% so it doesn't overflow when indented */
+    margin-left: 1.5em; /* Indents the container to align with standard bullet points */
+    border: none; /* Removed the outer border for a cleaner look when closed */
+    margin-top: 5px;
 }
+
 .container div {
-    width:100%;
+    width: auto; /* Changed from 100% */
 }
+
 .container .header {
-    background-color:#d3d3d3;
-    padding: 2px;
+    background-color: #d3d3d3;
+    padding: 4px 10px; /* Adjust padding to make it look like a standard button */
     cursor: pointer;
     font-weight: bold;
+    width: fit-content; /* Shrinks the button to only be as wide as the text inside it */
+    border-radius: 4px; /* Slightly rounds the button corners */
 }
+
 .container .content {
     display: none;
-    padding : 5px;
+    padding: 10px;
+    border-left: 2px solid #d3d3d3; /* Adds a subtle line on the left to show it's a dropdown */
+    margin-top: 5px;
+}
