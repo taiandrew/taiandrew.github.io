@@ -53,6 +53,7 @@ In many object allocation problems, some of the objects may be indistinguishable
 - **Why Do Legislators form Links?**
 <br>
 [[short write-up](/files/Tai_senateNetworks.pdf)]
+[[visualizations](https://taiandrew.github.io/senateNetwork/)]
 [<a href="#/" onclick="visib('legislators')">description</a>]
 <div id="legislators" style="display: none; text-align: justify; line-height: 1.2">
 	We are analyzing network links in the House of Representatives via cosponsoring relationships.
