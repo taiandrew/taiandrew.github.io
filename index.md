@@ -1,7 +1,9 @@
+<style>
+  header, .site-header { display: none !important; }
+</style>
 
 <img src="images/profile.jpg" alt="Profile Picture" width="180" align="right" style="margin-left: 20px; border-radius: 5px;">
 
-# Andrew Tai
 
 **Assistant Professor of Economics**
 <br> Defense Resources Management, DSCU
