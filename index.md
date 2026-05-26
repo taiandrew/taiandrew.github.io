@@ -9,7 +9,7 @@
 <br> [Google Scholar](https://scholar.google.com/citations?user=e6QvYlEAAAAJ&hl=en) · [CV [PDF]](files/Tai_CV.pdf)
 <br>
 
---
+---
 
 ## Working papers
 
@@ -41,7 +41,7 @@ In many object allocation problems, some of the objects may be indistinguishable
 	We study the classic house-swapping problem of Shapley and Scarf (1974) in a setting where agents may have "objective" indifferences, i.e., indifferences that are shared by all agents. In other words, if any one agent is indifferent between two houses, then all agents are indifferent between those two houses. The most direct interpretation is the presence of multiple copies of the same object. Our setting is a special case of the house-swapping problem with general indifferences. We derive a simple, easily interpretable algorithm that produces the unique strict core allocation of the house-swapping market, if it exists. Our algorithm runs in square-polynomial time, an improvement over the cubed time methods for the more general problem. 
 <br><br/></div>
 
---
+---
 
 ## Work in progress
 - **Random Matching with Minimums**
@@ -72,7 +72,7 @@ In many object allocation problems, some of the objects may be indistinguishable
 <br><br/></div>
 
 
---
+---
 
 ## Publications
 - **Group Incentive Compatibility in a Market with Indivisible Goods: A Comment** 
@@ -90,6 +90,7 @@ In many object allocation problems, some of the objects may be indistinguishable
 <br> with Zheng Liu and Mark Spiegel
 <br>[[link](https://doi.org/10.1016/j.jimonfin.2017.02.025)]
 
+---
 
 ## Conference papers, etc.
 - **AI Collusion in Procurement Auctions** 
