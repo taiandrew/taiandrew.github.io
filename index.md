@@ -120,4 +120,10 @@ In many object allocation problems, some of the objects may be indistinguishable
   .site-header { 
     display: none !important; 
   }
+
+  @media only screen and (max-width: 600px) {
+    .profile-pic {
+      display: none !important;
+    }
+  }
 </style>
