@@ -1,6 +1,3 @@
-<style>
-  header, .site-header { display: none !important; }
-</style>
 
 <img src="images/profile.jpg" alt="Profile Picture" width="180" align="right" style="margin-left: 20px; border-radius: 5px;">
 
@@ -113,3 +110,8 @@ In many object allocation problems, some of the objects may be indistinguishable
  [//]:&emsp;<button onclick="visib('polariz')" class="btn btn--inverse btn--small">Abstract</button>
 
 
+<style>
+  .site-header { 
+    display: none !important; 
+  }
+</style>
