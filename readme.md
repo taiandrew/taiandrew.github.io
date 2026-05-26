@@ -1,4 +1,8 @@
-<img src="images/profile.jpg" alt="Profile Picture" width="200" align="right" style="margin-left: 20px; border-radius: 5px;">
+---
+title: Andrew Tai
+---
+
+<img src="images/profile.jpg" alt="Profile Picture" width="160" align="right" style="margin-left: 20px; border-radius: 5px;">
 
 # Andrew Tai
 
@@ -6,11 +10,9 @@
 <br> Defense Resources Management, DSCU
 <br> Contact: [andrew.tai@nps.edu](mailto:andrew.tai@nps.edu)
 <br> [Google Scholar](https://scholar.google.com/citations?user=e6QvYlEAAAAJ&hl=en) · [CV [PDF]](files/Tai_CV.pdf)
-
----
+<br>
 
 ## Working papers
----
 
 - **Revealed Preferences of One-Sided Matching**
 <br>
@@ -43,8 +45,6 @@ In many object allocation problems, some of the objects may be indistinguishable
 
 
 ## Work in progress
----
-
 - **Random Matching with Minimums**
 <br> With Will Sandholtz
 <br>
@@ -76,7 +76,6 @@ In many object allocation problems, some of the objects may be indistinguishable
 
 
 ## Publications
----
 - **Group Incentive Compatibility in a Market with Indivisible Goods: A Comment** 
 	<br> Economics Letters. 2024.
 	<br> with Will Sandholtz
