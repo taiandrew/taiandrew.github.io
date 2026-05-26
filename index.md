@@ -1,5 +1,5 @@
 
-<img src="images/profile.jpg" alt="Profile Picture" width="180" align="right" style="margin-left: 20px; border-radius: 5px;">
+<img src="images/profile.jpg" alt="Profile Picture" width="200" align="right" style="margin-left: 20px; border-radius: 5px;">
 
 # Andrew Tai
 
