@@ -1,8 +1,12 @@
----
-layout: archive
-title: "Research"
-permalink: /research/
-author_profile: true
+<img src="images/profile.jpg" alt="Profile Picture" width="200" align="right" style="margin-left: 20px; border-radius: 5px;">
+
+# Andrew Tai
+
+**Assistant Professor of Economics**
+<br> Defense Resources Management, DSCU
+<br> Contact: [andrew.tai@nps.edu](mailto:andrew.tai@nps.edu)
+<br> [Google Scholar](https://scholar.google.com/citations?user=e6QvYlEAAAAJ&hl=en) · [CV [PDF]](files/Tai_CV.pdf)
+
 ---
 
 ## Working papers
