@@ -1,8 +1,5 @@
----
-title: Andrew Tai
----
 
-<img src="images/profile.jpg" alt="Profile Picture" width="160" align="right" style="margin-left: 20px; border-radius: 5px;">
+<img src="images/profile.jpg" alt="Profile Picture" width="180" align="right" style="margin-left: 20px; border-radius: 5px;">
 
 # Andrew Tai
 
@@ -93,7 +90,6 @@ In many object allocation problems, some of the objects may be indistinguishable
 
 
 ## Conference papers, etc.
----
 - **AI Collusion in Procurement Auctions** 
 <br> Appeared in the Naval Postgraduate School Acquisition Research Symposium, 2026.
 <br> [[PDF (working paper version)](/files/Tai_AICollusion.pdf)]

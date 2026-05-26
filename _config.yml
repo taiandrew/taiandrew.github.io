@@ -6,6 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-remote_theme: "jekyll/minima@1e8a445"
+#remote_theme: "jekyll/minima@1e8a445"
+theme: default
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
