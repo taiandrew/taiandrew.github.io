@@ -17,8 +17,8 @@ I'm an Economist working primarily on economic theory. I received my Ph.D. in Ec
 
 - **Revealed Preferences of One-Sided Matching**
 <br>
-[[PDF (arXiv)](https://arxiv.org/pdf/2210.14388)] 
-[<a href="#/" onclick="visib('RevPref')">click for abstract</a>]
+[[PDF](https://arxiv.org/pdf/2210.14388)] 
+[<a href="#/" onclick="visib('RevPref')">abstract</a>]
 
 <div id="RevPref" style="display: none; text-align: justify; line-height: 1.2">
 	This paper studies the testable implications of the core in an exchange economy when agents' preferences are unknown. Through a revealed preferences perspective, I build a model in which the core is testable. The setting a pure exchange economy with indivisible goods and unit demand. The key identifying assumption is that agents' preferences are solely determined by observable characteristics. The setting and assumption allow me to build on earlier results and obtain if and only if conditions for rationalizability of the observed allocation. These conditions are meaningful, intuitive, and tractable. Further, the results formally link together the core, competitive equilibrium, and Afriat's theorem. I also develop a method to estimate utility parameters from repeated observations of exchange economies; the setting is akin to Fox (2010). The allocation being in the core implies necessary moment inequalities, which I use to obtain partial identification.
@@ -27,17 +27,26 @@ I'm an Economist working primarily on economic theory. I received my Ph.D. in Ec
 - **Shapley-Scarf Markets with Objective Indifferences**. Submitted.
 <br> with Will Sandholtz
 <br>
-[[PDF (arXiv)](https://arxiv.org/pdf/2503.18144)]
-[<a href="#/" onclick="visib('TTCcomm')">click for abstract</a>]
+[[PDF](https://arxiv.org/pdf/2503.18144)]
+[<a href="#/" onclick="visib('TTCcomm')">abstract</a>]
 
 <div id="TTCcomm" style="display: none; text-align: justify; line-height: 1.2">
 In many object allocation problems, some of the objects may be indistinguishable from each other, such as with dorm rooms or school seats. We call this setting "objective indifferences," describing situations where all agents are indifferent between identical copies. Thus matching mechanisms in such settings should account for indifferences. Top trading cycles (TTC) with fixed tie-breaking has been suggested and used in practice to deal with indifferences in object allocation problems. Under general indifferences, TTC with fixed tie-breaking is not Pareto efficient nor group strategy-proof. Furthermore, it may not select the core, even when it exists. However, under objective indifferences, agents are always and only indifferent between copies of the same object. In this setting, TTC with fixed tie-breaking maintains Pareto efficiency, group strategy-proofness, and core selection. Further, we show that objective indifferences is the most general setting where TTC with fixed tie-breaking maintains these important properties.
 <br><br/></div>
 
+- **Random Matching with Minimums**
+<br> With Will Sandholtz
+<br>
+[[PDF](https://arxiv.org/pdf/2605.26367)]
+[<a href="#/" onclick="visib('random_mins')">description</a>]
+<div id="random_mins" style="display: none; text-align: justify; line-height: 1.2">
+	We consider the problem random assignment of agents to objects when objects may have minimum and maximum capacity requirements. Applying Balbunzanov (2022), we generalize the Probabilistic Serial mechanism of Bogomolnaia and Moulin (2001) to our setting. The resulting eating mechanism is *stochastic dominance efficient*, meaning no other random assignment stochastically dominates it according to agents' ordinal preferences.
+<br><br/></div>
+
 - **House-Swapping with Objective Indifferences**
 <br> with Will Sandholtz
-<br> [[PDF (arXiv)](https://arxiv.org/pdf/2306.09529)]
-[<a href="#/" onclick="visib('ObjInd')">click for abstract</a>]
+<br> [[PDF](https://arxiv.org/pdf/2306.09529)]
+[<a href="#/" onclick="visib('ObjInd')">abstract</a>]
 
 <div id="ObjInd" style="display: none; text-align: justify; line-height: 1.2">
 	We study the classic house-swapping problem of Shapley and Scarf (1974) in a setting where agents may have "objective" indifferences, i.e., indifferences that are shared by all agents. In other words, if any one agent is indifferent between two houses, then all agents are indifferent between those two houses. The most direct interpretation is the presence of multiple copies of the same object. Our setting is a special case of the house-swapping problem with general indifferences. We derive a simple, easily interpretable algorithm that produces the unique strict core allocation of the house-swapping market, if it exists. Our algorithm runs in square-polynomial time, an improvement over the cubed time methods for the more general problem. 
@@ -46,13 +55,6 @@ In many object allocation problems, some of the objects may be indistinguishable
 ---
 
 ## Work in progress
-- **Random Matching with Minimums**
-<br> With Will Sandholtz
-<br>
-[<a href="#/" onclick="visib('random_mins')">description</a>]
-<div id="random_mins" style="display: none; text-align: justify; line-height: 1.2">
-	We consider the problem random assignment of agents to objects when objects may have minimum and maximum capacity requirements. Applying Balbunzanov (2022), we generalize the Probabilistic Serial mechanism of Bogomolnaia and Moulin (2001) to our setting. The resulting eating mechanism is *stochastic dominance efficient*, meaning no other random assignment stochastically dominates it according to agents' ordinal preferences.
-<br><br/></div>
 
 
 - **Why Do Legislators form Links?**
@@ -80,7 +82,7 @@ In many object allocation problems, some of the objects may be indistinguishable
 - **Group Incentive Compatibility in a Market with Indivisible Goods: A Comment** 
 	<br> Economics Letters. 2024.
 	<br> with Will Sandholtz
-	<br>[[link](https://doi.org/10.1016/j.econlet.2024.111938)] [[PDF (working paper version)](/files/Tai_TTCGroupStratProof.pdf)]
+	<br>[[link](https://doi.org/10.1016/j.econlet.2024.111938)] [[PDF (working paper)](/files/Tai_TTCGroupStratProof.pdf)]
 
 - **International Transmission of Japanese Monetary Shocks under Low and Negative Interest Rates: A Global FAVAR Approach** 
 <br> Pacific Economic Review. 2019.
