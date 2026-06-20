@@ -35,12 +35,12 @@ In many object allocation problems, some of the objects may be indistinguishable
 <br><br/></div>
 
 - **Random Matching with Minimums**
-<br> With Will Sandholtz
+<br> with Will Sandholtz
 <br>
 [[PDF](https://arxiv.org/pdf/2605.26367)]
-[<a href="#/" onclick="visib('random_mins')">description</a>]
+[<a href="#/" onclick="visib('random_mins')">abstract</a>]
 <div id="random_mins" style="display: none; text-align: justify; line-height: 1.2">
-	We consider the problem random assignment of agents to objects when objects may have minimum and maximum capacity requirements. Applying Balbunzanov (2022), we generalize the Probabilistic Serial mechanism of Bogomolnaia and Moulin (2001) to our setting. The resulting eating mechanism is *stochastic dominance efficient*, meaning no other random assignment stochastically dominates it according to agents' ordinal preferences.
+We study stochastic object assignment problems in which objects may have minimum and maximum requirements, such as with classes with upper and lower enrollment bounds. We construct a new random assignment mechanism, the minimums probabilistic serial (MPS) mechanism, which generalizes the Probabilistic Serial mechanism of Bogomolnaia and Moulin (2001). The random allocation produced by MPS is guaranteed to be Pareto efficient; that is, there is no other implementable allocation that all agents prefer via first order stochastic dominance. We also show that MPS is i) envy-free, in that no agent will strictly prefer another agent's assignment, and ii) weak strategyproof, in that agents cannot achieve a better assignment by misreporting their preferences.
 <br><br/></div>
 
 - **House-Swapping with Objective Indifferences**
@@ -55,6 +55,15 @@ In many object allocation problems, some of the objects may be indistinguishable
 ---
 
 ## Work in progress
+
+- **Continuity of stable marriage correspondences**
+<br> with Will Sandholtz
+<br>
+[<a href="#/" onclick="visib('random_mins')">description</a>]
+<div id="random_mins" style="display: none; text-align: justify; line-height: 1.2">
+We study a continuous version of the canonical stable marriage problem, in which each agent has a variable mass to be paired to the opposite side. The mass is interpretable as the divisible time of a single agent, or as continuous mass of agents of a particular type. Our object of interest is the mapping between the vector of masses to the set of stable matches. As in the canonical stable marriage model, the set of stable matches can be multi-valued. We show that this mapping is continuous if and only if the stable match is unique.
+<br><br/></div>
+
 
 
 - **Why Do Legislators form Links?**
