@@ -59,8 +59,8 @@ We study stochastic object assignment problems in which objects may have minimum
 - **Continuity of stable marriage correspondences**
 <br> with Will Sandholtz
 <br>
-[<a href="#/" onclick="visib('random_mins')">description</a>]
-<div id="random_mins" style="display: none; text-align: justify; line-height: 1.2">
+[<a href="#/" onclick="visib('stable_correspondences')">description</a>]
+<div id="stable_correspondences" style="display: none; text-align: justify; line-height: 1.2">
 We study a continuous version of the canonical stable marriage problem, in which each agent has a variable mass to be paired to the opposite side. The mass is interpretable as the divisible time of a single agent, or as continuous mass of agents of a particular type. Our object of interest is the mapping between the vector of masses to the set of stable matches. As in the canonical stable marriage model, the set of stable matches can be multi-valued. We show that this mapping is continuous if and only if the stable match is unique.
 <br><br/></div>
 
