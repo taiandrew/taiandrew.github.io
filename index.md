@@ -5,8 +5,11 @@
 
 **Assistant Professor of Economics**
 <br> Defense Resources Management, DSCU
-<br> Contact: [andrew.tai@nps.edu](mailto:andrew.tai@nps.edu)
-<br> [Google Scholar](https://scholar.google.com/citations?user=e6QvYlEAAAAJ&hl=en) · [CV [PDF]](files/Tai_CV.pdf) · [ORCID](https://orcid.org/0009-0008-7636-9791)
+<br> Contact: 
+<br> &emsp; [andrew.a.tai@gmail.com](mailto:andrew.tai@nps.edu) (preferred)
+<br> &emsp; [andrew.tai@nps.edu](mailto:andrew.tai@nps.edu)
+
+[Google Scholar](https://scholar.google.com/citations?user=e6QvYlEAAAAJ&hl=en) · [CV [PDF]](files/Tai_CV.pdf) · [ORCID](https://orcid.org/0009-0008-7636-9791)
 <br>
 
 I'm an Economist working primarily on economic theory. I received my Ph.D. in Economics from UC Berkeley, and my B.A. in Applied Mathematics, also from UC Berkeley.
