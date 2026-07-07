@@ -20,7 +20,7 @@ I'm an Economist working primarily on economic theory. I received my Ph.D. in Ec
 
 - **Revealed Preferences of One-Sided Matching** 
 <br> 
-<button class="paper-btn" onclick="visib('RevPref', this)"><span class="caret">▾</span> abstract</button>
+<a href="#/" class="paper-btn" onclick="visib('RevPref', this); return false;"><span class="caret">▾</span> abstract</a>
 <a class="paper-btn" href="https://arxiv.org/pdf/2210.14388">PDF</a>
 
 <div id="RevPref" style="display: none; text-align: justify; line-height: 1.2">
@@ -30,7 +30,7 @@ I'm an Economist working primarily on economic theory. I received my Ph.D. in Ec
 - **Shapley-Scarf Markets with Objective Indifferences**. Submitted.
 <br> with Will Sandholtz
 <br>
-<button class="paper-btn" onclick="visib('TTCcomm', this)"><span class="caret">▾</span> abstract</button>
+<a href="#/" class="paper-btn" onclick="visib('TTCcomm', this); return false;"><span class="caret">▾</span> abstract</a>
 <a class="paper-btn" href="https://arxiv.org/pdf/2503.18144">PDF</a>
 
 <div id="TTCcomm" style="display: none; text-align: justify; line-height: 1.2">
@@ -40,7 +40,7 @@ In many object allocation problems, some of the objects may be indistinguishable
 - **Random Matching with Minimums**
 <br> with Will Sandholtz
 <br>
-<button class="paper-btn" onclick="visib('random_mins', this)"><span class="caret">▾</span> abstract</button>
+<a href="#/" class="paper-btn" onclick="visib('random_mins', this); return false;"><span class="caret">▾</span> abstract</a>
 <a class="paper-btn" href="https://arxiv.org/pdf/2605.26367">PDF</a>
 <div id="random_mins" style="display: none; text-align: justify; line-height: 1.2">
 We study stochastic object assignment problems in which objects may have minimum and maximum requirements, such as with classes with upper and lower enrollment bounds. We construct a new random assignment mechanism, the minimums probabilistic serial (MPS) mechanism, which generalizes the Probabilistic Serial mechanism of Bogomolnaia and Moulin (2001). The random allocation produced by MPS is guaranteed to be Pareto efficient; that is, there is no other implementable allocation that all agents prefer via first order stochastic dominance. We also show that MPS is i) envy-free, in that no agent will strictly prefer another agent's assignment, and ii) weak strategyproof, in that agents cannot achieve a better assignment by misreporting their preferences.
@@ -49,7 +49,7 @@ We study stochastic object assignment problems in which objects may have minimum
 - **House-Swapping with Objective Indifferences**
 <br> with Will Sandholtz
 <br>
-<button class="paper-btn" onclick="visib('ObjInd', this)"><span class="caret">▾</span> abstract</button>
+<a href="#/" class="paper-btn" onclick="visib('ObjInd', this); return false;"><span class="caret">▾</span> abstract</a>
 <a class="paper-btn" href="https://arxiv.org/pdf/2306.09529">PDF</a>
 
 <div id="ObjInd" style="display: none; text-align: justify; line-height: 1.2">
@@ -63,7 +63,7 @@ We study stochastic object assignment problems in which objects may have minimum
 - **Continuity of stable marriage correspondences**
 <br> with Will Sandholtz
 <br>
-<button class="paper-btn" onclick="visib('stable_correspondences', this)"><span class="caret">▾</span> description</button>
+<a href="#/" class="paper-btn" onclick="visib('stable_correspondences', this); return false;"><span class="caret">▾</span> description</a>
 <div id="stable_correspondences" style="display: none; text-align: justify; line-height: 1.2">
 We study a continuous version of the canonical stable marriage problem, in which each agent has a variable mass to be paired to the opposite side. The mass is interpretable as the divisible time of a single agent, or as continuous mass of agents of a particular type. Our object of interest is the mapping between the vector of masses to the set of stable matches. As in the canonical stable marriage model, the set of stable matches can be multi-valued. We show that this mapping is continuous if and only if the stable match is unique.
 <br><br/></div>
@@ -72,7 +72,7 @@ We study a continuous version of the canonical stable marriage problem, in which
 
 - **Why Do Legislators form Links?**
 <br>
-<button class="paper-btn" onclick="visib('legislators', this)"><span class="caret">▾</span> description</button>
+<a href="#/" class="paper-btn" onclick="visib('legislators', this); return false;"><span class="caret">▾</span> description</a>
 <a class="paper-btn" href="/files/Tai_senateNetworks.pdf">short write-up</a>
 <a class="paper-btn" href="https://taiandrew.github.io/senateNetwork/">visualizations</a>
 <div id="legislators" style="display: none; text-align: justify; line-height: 1.2">
@@ -82,7 +82,7 @@ We study a continuous version of the canonical stable marriage problem, in which
 - **Solutions for Congestion in Matching Markets (working title)**
 <br>with Nadav Tadelis
 <br>
-<button class="paper-btn" onclick="visib('Congestion', this)"><span class="caret">▾</span> description</button>
+<a href="#/" class="paper-btn" onclick="visib('Congestion', this); return false;"><span class="caret">▾</span> description</a>
 
 <div id="Congestion" style="display: none; text-align: justify; line-height: 1.2">
 	We propose a novel modification of Deferred Acceptance where interviews are required to resolve preferences. Under restrictions on the mistakes in pre-interview rankings, an order of magnitude fewer interviews are required than the number of candidates. Simulations indicate the method's effectiveness, and we are establishing a theoretical justification.
@@ -144,30 +144,27 @@ We study a continuous version of the canonical stable marriage problem, in which
     align-items: center;
     gap: 0.35em;
     margin: 0 0.4em 0.3em 0;
-    padding: 0.2em 0.8em;
+    padding: 0.1em 0.75em;
     font-family: inherit;
     font-size: 0.82em;
     font-weight: 600;
     line-height: 1.6;
     color: #1a5276;
     background: #eef3f8;
-    border: 1px solid #b9cbdb;
-    border-radius: 6px;
-    box-shadow: 0 2px 0 #b9cbdb;
+    border: 1px solid #cdd9e5;
+    border-radius: 999px;
     text-decoration: none !important;
     cursor: pointer;
-    transition: background 0.1s ease, box-shadow 0.1s ease, transform 0.1s ease;
+    transition: background 0.15s ease, box-shadow 0.15s ease;
   }
   .paper-btn:hover {
     background: #dce7f1;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12);
   }
-  .paper-btn:active,
   .paper-btn.open {
     background: #1a5276;
     color: #ffffff;
-    border-color: #123c56;
-    box-shadow: 0 1px 0 #123c56;
-    transform: translateY(1px);
+    border-color: #1a5276;
   }
   .paper-btn .caret {
     font-size: 1.3em;
