@@ -21,7 +21,7 @@ I'm an Economist working primarily on economic theory. I received my Ph.D. in Ec
 - **Revealed Preferences of One-Sided Matching**
 <br>
 [[PDF](https://arxiv.org/pdf/2210.14388)] 
-[<a href="#/" onclick="visib('RevPref')">abstract</a>]
+<a href="#/" class="abstract-toggle" onclick="visib('RevPref', this); return false;"><span class="caret">▾</span> abstract</a>
 
 <div id="RevPref" style="display: none; text-align: justify; line-height: 1.2">
 	This paper studies the testable implications of the core in an exchange economy when agents' preferences are unknown. Through a revealed preferences perspective, I build a model in which the core is testable. The setting a pure exchange economy with indivisible goods and unit demand. The key identifying assumption is that agents' preferences are solely determined by observable characteristics. The setting and assumption allow me to build on earlier results and obtain if and only if conditions for rationalizability of the observed allocation. These conditions are meaningful, intuitive, and tractable. Further, the results formally link together the core, competitive equilibrium, and Afriat's theorem. I also develop a method to estimate utility parameters from repeated observations of exchange economies; the setting is akin to Fox (2010). The allocation being in the core implies necessary moment inequalities, which I use to obtain partial identification.
@@ -31,7 +31,7 @@ I'm an Economist working primarily on economic theory. I received my Ph.D. in Ec
 <br> with Will Sandholtz
 <br>
 [[PDF](https://arxiv.org/pdf/2503.18144)]
-[<a href="#/" onclick="visib('TTCcomm')">abstract</a>]
+<a href="#/" class="abstract-toggle" onclick="visib('TTCcomm', this); return false;"><span class="caret">▾</span> abstract</a>
 
 <div id="TTCcomm" style="display: none; text-align: justify; line-height: 1.2">
 In many object allocation problems, some of the objects may be indistinguishable from each other, such as with dorm rooms or school seats. We call this setting "objective indifferences," describing situations where all agents are indifferent between identical copies. Thus matching mechanisms in such settings should account for indifferences. Top trading cycles (TTC) with fixed tie-breaking has been suggested and used in practice to deal with indifferences in object allocation problems. Under general indifferences, TTC with fixed tie-breaking is not Pareto efficient nor group strategy-proof. Furthermore, it may not select the core, even when it exists. However, under objective indifferences, agents are always and only indifferent between copies of the same object. In this setting, TTC with fixed tie-breaking maintains Pareto efficiency, group strategy-proofness, and core selection. Further, we show that objective indifferences is the most general setting where TTC with fixed tie-breaking maintains these important properties.
@@ -41,7 +41,7 @@ In many object allocation problems, some of the objects may be indistinguishable
 <br> with Will Sandholtz
 <br>
 [[PDF](https://arxiv.org/pdf/2605.26367)]
-[<a href="#/" onclick="visib('random_mins')">abstract</a>]
+<a href="#/" class="abstract-toggle" onclick="visib('random_mins', this); return false;"><span class="caret">▾</span> abstract</a>
 <div id="random_mins" style="display: none; text-align: justify; line-height: 1.2">
 We study stochastic object assignment problems in which objects may have minimum and maximum requirements, such as with classes with upper and lower enrollment bounds. We construct a new random assignment mechanism, the minimums probabilistic serial (MPS) mechanism, which generalizes the Probabilistic Serial mechanism of Bogomolnaia and Moulin (2001). The random allocation produced by MPS is guaranteed to be Pareto efficient; that is, there is no other implementable allocation that all agents prefer via first order stochastic dominance. We also show that MPS is i) envy-free, in that no agent will strictly prefer another agent's assignment, and ii) weak strategyproof, in that agents cannot achieve a better assignment by misreporting their preferences.
 <br><br/></div>
@@ -49,7 +49,7 @@ We study stochastic object assignment problems in which objects may have minimum
 - **House-Swapping with Objective Indifferences**
 <br> with Will Sandholtz
 <br> [[PDF](https://arxiv.org/pdf/2306.09529)]
-[<a href="#/" onclick="visib('ObjInd')">abstract</a>]
+<a href="#/" class="abstract-toggle" onclick="visib('ObjInd', this); return false;"><span class="caret">▾</span> abstract</a>
 
 <div id="ObjInd" style="display: none; text-align: justify; line-height: 1.2">
 	We study the classic house-swapping problem of Shapley and Scarf (1974) in a setting where agents may have "objective" indifferences, i.e., indifferences that are shared by all agents. In other words, if any one agent is indifferent between two houses, then all agents are indifferent between those two houses. The most direct interpretation is the presence of multiple copies of the same object. Our setting is a special case of the house-swapping problem with general indifferences. We derive a simple, easily interpretable algorithm that produces the unique strict core allocation of the house-swapping market, if it exists. Our algorithm runs in square-polynomial time, an improvement over the cubed time methods for the more general problem. 
@@ -62,7 +62,7 @@ We study stochastic object assignment problems in which objects may have minimum
 - **Continuity of stable marriage correspondences**
 <br> with Will Sandholtz
 <br>
-[<a href="#/" onclick="visib('stable_correspondences')">description</a>]
+<a href="#/" class="abstract-toggle" onclick="visib('stable_correspondences', this); return false;"><span class="caret">▾</span> description</a>
 <div id="stable_correspondences" style="display: none; text-align: justify; line-height: 1.2">
 We study a continuous version of the canonical stable marriage problem, in which each agent has a variable mass to be paired to the opposite side. The mass is interpretable as the divisible time of a single agent, or as continuous mass of agents of a particular type. Our object of interest is the mapping between the vector of masses to the set of stable matches. As in the canonical stable marriage model, the set of stable matches can be multi-valued. We show that this mapping is continuous if and only if the stable match is unique.
 <br><br/></div>
@@ -73,7 +73,7 @@ We study a continuous version of the canonical stable marriage problem, in which
 <br>
 [[short write-up](/files/Tai_senateNetworks.pdf)]
 [[visualizations](https://taiandrew.github.io/senateNetwork/)]
-[<a href="#/" onclick="visib('legislators')">description</a>]
+<a href="#/" class="abstract-toggle" onclick="visib('legislators', this); return false;"><span class="caret">▾</span> description</a>
 <div id="legislators" style="display: none; text-align: justify; line-height: 1.2">
 	We are analyzing network links in the House of Representatives via cosponsoring relationships.
 <br><br/></div>
@@ -81,7 +81,7 @@ We study a continuous version of the canonical stable marriage problem, in which
 - **Solutions for Congestion in Matching Markets (working title)**
 <br>with Nadav Tadelis
 <br>
-[<a href="#/" onclick="visib('Congestion')">description</a>]
+<a href="#/" class="abstract-toggle" onclick="visib('Congestion', this); return false;"><span class="caret">▾</span> description</a>
 
 <div id="Congestion" style="display: none; text-align: justify; line-height: 1.2">
 	We propose a novel modification of Deferred Acceptance where interviews are required to resolve preferences. Under restrictions on the mistakes in pre-interview rankings, an order of magnitude fewer interviews are required than the number of candidates. Simulations indicate the method's effectiveness, and we are establishing a theoretical justification.
@@ -117,13 +117,11 @@ We study a continuous version of the canonical stable marriage problem, in which
 
 [//]: This java script is the button to show abstract
  <script>
-  function visib(id) {
+  function visib(id, btn) {
    var x = document.getElementById(id);
-   if (x.style.display === "block") {
-     x.style.display = "none";
-   } else {
-     x.style.display = "block";
-   }
+   var isHidden = x.style.display === "none" || x.style.display === "";
+   x.style.display = isHidden ? "block" : "none";
+   if (btn) { btn.classList.toggle("open", isHidden); }
  }
  </script>
 
@@ -133,6 +131,42 @@ We study a continuous version of the canonical stable marriage problem, in which
 <style>
   .site-header { 
     display: none !important; 
+  }
+
+  .abstract-toggle {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.3em;
+    padding: 0.1em 0.65em;
+    font-size: 0.82em;
+    font-weight: 600;
+    line-height: 1.6;
+    color: #1a5276;
+    background: #eef3f8;
+    border: 1px solid #cdd9e5;
+    border-radius: 999px;
+    text-decoration: none !important;
+    cursor: pointer;
+    transition: background 0.15s ease, box-shadow 0.15s ease, transform 0.05s ease;
+  }
+  .abstract-toggle:hover {
+    background: #dce7f1;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12);
+  }
+  .abstract-toggle:active {
+    transform: translateY(1px);
+  }
+  .abstract-toggle .caret {
+    font-size: 0.7em;
+    transition: transform 0.2s ease;
+  }
+  .abstract-toggle.open {
+    background: #1a5276;
+    color: #ffffff;
+    border-color: #1a5276;
+  }
+  .abstract-toggle.open .caret {
+    transform: rotate(180deg);
   }
 
   @media only screen and (max-width: 600px) {
