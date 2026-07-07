@@ -166,10 +166,6 @@ We study a continuous version of the canonical stable marriage problem, in which
     color: #ffffff;
     border-color: #1a5276;
   }
-  .paper-btn .caret {
-    font-size: 1.3em;
-    line-height: 1;
-  }
 
   @media only screen and (max-width: 600px) {
     .profile-pic {
