@@ -101,14 +101,13 @@ We study a continuous version of the canonical stable marriage problem, in which
 
 ## Permanent working papers
 
-<small>
-> The woods are lovely, dark and deep,   
+><small> The woods are lovely, dark and deep,   
 > But I have promises to keep,   
 > And miles to go before I sleep,   
 > And miles to go before I sleep.
-><br> - Robert Frost
+><br> - Robert Frost </small>
 
-</small>
+
 
 - **House-Swapping with Objective Indifferences**
 <br> with Will Sandholtz
