@@ -43,15 +43,6 @@ In many object allocation problems, some of the objects may be indistinguishable
 We study stochastic object assignment problems in which objects may have minimum and maximum requirements, such as with classes with upper and lower enrollment bounds. We construct a new random assignment mechanism, the minimums probabilistic serial (MPS) mechanism, which generalizes the Probabilistic Serial mechanism of Bogomolnaia and Moulin (2001). The random allocation produced by MPS is guaranteed to be Pareto efficient; that is, there is no other implementable allocation that all agents prefer via first order stochastic dominance. We also show that MPS is i) envy-free, in that no agent will strictly prefer another agent's assignment, and ii) weak strategyproof, in that agents cannot achieve a better assignment by misreporting their preferences.
 <br><br/></div>
 
-- **House-Swapping with Objective Indifferences**
-<br> with Will Sandholtz
-<br>
-<a href="#/" onclick="visib('ObjInd', this); return false;"><span class="toggle-box">+</span>abstract</a> | [PDF](https://arxiv.org/pdf/2306.09529)
-
-<div id="ObjInd" class="abstract-body" style="display: none; text-align: justify; line-height: 1.2">
-	We study the classic house-swapping problem of Shapley and Scarf (1974) in a setting where agents may have "objective" indifferences, i.e., indifferences that are shared by all agents. In other words, if any one agent is indifferent between two houses, then all agents are indifferent between those two houses. The most direct interpretation is the presence of multiple copies of the same object. Our setting is a special case of the house-swapping problem with general indifferences. We derive a simple, easily interpretable algorithm that produces the unique strict core allocation of the house-swapping market, if it exists. Our algorithm runs in square-polynomial time, an improvement over the cubed time methods for the more general problem. 
-<br><br/></div>
-
 ---
 
 ## Work in progress
@@ -86,6 +77,11 @@ We study a continuous version of the canonical stable marriage problem, in which
 ---
 
 ## Publications
+
+- **AI Collusion in Procurement Auctions** (conference paper)
+<br> Naval Postgraduate School Acquisition Research Symposium. 2026.
+<br> [link](https://www.dair.nps.edu/bitstream/123456789/5518/1/SYM-AM-26-081.pdf) | [PDF (working paper)](/files/Tai_AICollusion.pdf)
+
 - **Group Incentive Compatibility in a Market with Indivisible Goods: A Comment** 
 	<br> Economics Letters. 2024.
 	<br> with Will Sandholtz
@@ -103,10 +99,24 @@ We study a continuous version of the canonical stable marriage problem, in which
 
 ---
 
-## Conference papers, etc.
-- **AI Collusion in Procurement Auctions** 
-<br> Appeared in the Naval Postgraduate School Acquisition Research Symposium, 2026.
-<br> [PDF (working paper version)](/files/Tai_AICollusion.pdf)
+## Permanent working papers
+
+> The woods are lovely, dark and deep,   
+> But I have promises to keep,   
+> And miles to go before I sleep,   
+> And miles to go before I sleep.
+><br> - Robert Frost
+
+
+- **House-Swapping with Objective Indifferences**
+<br> with Will Sandholtz
+<br>
+<a href="#/" onclick="visib('ObjInd', this); return false;"><span class="toggle-box">+</span>abstract</a> | [PDF](https://arxiv.org/pdf/2306.09529)
+
+<div id="ObjInd" class="abstract-body" style="display: none; text-align: justify; line-height: 1.2">
+	We study the classic house-swapping problem of Shapley and Scarf (1974) in a setting where agents may have "objective" indifferences, i.e., indifferences that are shared by all agents. In other words, if any one agent is indifferent between two houses, then all agents are indifferent between those two houses. The most direct interpretation is the presence of multiple copies of the same object. Our setting is a special case of the house-swapping problem with general indifferences. We derive a simple, easily interpretable algorithm that produces the unique strict core allocation of the house-swapping market, if it exists. Our algorithm runs in square-polynomial time, an improvement over the cubed time methods for the more general problem. 
+<br><br/></div>
+
 
 
 
