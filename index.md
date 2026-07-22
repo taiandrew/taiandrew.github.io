@@ -43,6 +43,14 @@ In many object allocation problems, some of the objects may be indistinguishable
 We study stochastic object assignment problems in which objects may have minimum and maximum requirements, such as with classes with upper and lower enrollment bounds. We construct a new random assignment mechanism, the minimums probabilistic serial (MPS) mechanism, which generalizes the Probabilistic Serial mechanism of Bogomolnaia and Moulin (2001). The random allocation produced by MPS is guaranteed to be Pareto efficient; that is, there is no other implementable allocation that all agents prefer via first order stochastic dominance. We also show that MPS is i) envy-free, in that no agent will strictly prefer another agent's assignment, and ii) weak strategyproof, in that agents cannot achieve a better assignment by misreporting their preferences.
 <br><br/></div>
 
+- **Mostly rational types**
+<br>
+<a href="#/" onclick="visib('mostly_rational', this); return false;"><span class="toggle-arrow">▾</span>abstract</a> | [PDF](files/Tai_MostlyRational.pdf)
+<div id="mostly_rational" class="abstract-body" style="display: none; text-align: justify; line-height: 1.2">
+Abstract This paper proposes a method combining revealed preference theory and machine learning ideas to partition consumers in a principled way. The Generalized Axiom of Revealed Preferences can be applied to partition consumers into fully rational types, in the classical consumer theory sense. From here, types can be combined in a minimally lossy way. I illustrate using household milk purchase data. In the example data, 15 types are required to rationalize the data; however, many of these have few households, and can be merged into other types without significantly harming rationality. My method thus establishes a theory-driven and principled way to describe consumer demand data and the tradeoff between parsimony and heterogeneity.
+<br><br/></div>
+
+
 ---
 
 ## Work in progress
