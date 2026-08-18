@@ -50,18 +50,18 @@ We study stochastic object assignment problems in which objects may have minimum
 This paper proposes a method combining revealed preference theory and machine learning ideas to partition consumers in a principled way. The Generalized Axiom of Revealed Preferences can be applied to partition consumers into fully rational types, in the classical consumer theory sense. From here, types can be combined in a minimally lossy way. I illustrate using household milk purchase data. In the example data, 15 types are required to rationalize the data; however, many of these have few households, and can be merged into other types without significantly harming rationality. My method thus establishes a theory-driven and principled way to describe consumer demand data and the tradeoff between parsimony and heterogeneity.
 <br><br/></div>
 
+- **Continuity of stable marriage correspondences**
+<br> with Will Sandholtz
+<br>
+<a href="#/" onclick="visib('stable_correspondences', this); return false;"><span class="toggle-arrow">▾</span>description</a> | [PDF](files/Tai_ContStableMatching.pdf)
+<div id="stable_correspondences" class="abstract-body" style="display: none; text-align: justify; line-height: 1.2">
+We study a continuum version of the stable marriage problem, in which each agent has a variable mass to be paired to the opposite side. An agent's mass is interpretable as the divisible time of a single atomistic agent, or as a mass of infinitesimal agents of a particular type. Our object of interest is the mapping between the vector of masses to the set of stable matches. As in the canonical stable marriage model, the set of stable matches can be multi-valued, so this mapping is a correspondence. This correspondence is continuous if and only if the stable match is unique, implying that small changes in the masses may cause discontinuous jumps in the set of stable matches.<br><br/></div>
+
+
 
 ---
 
 ## Work in progress
-
-- **Continuity of stable marriage correspondences**
-<br> with Will Sandholtz
-<br>
-<a href="#/" onclick="visib('stable_correspondences', this); return false;"><span class="toggle-arrow">▾</span>description</a>
-<div id="stable_correspondences" class="abstract-body" style="display: none; text-align: justify; line-height: 1.2">
-We study a continuous version of the canonical stable marriage problem, in which each agent has a variable mass to be paired to the opposite side. The mass is interpretable as the divisible time of a single agent, or as continuous mass of agents of a particular type. Our object of interest is the mapping between the vector of masses to the set of stable matches. As in the canonical stable marriage model, the set of stable matches can be multi-valued. We show that this mapping is continuous if and only if the stable match is unique.
-<br><br/></div>
 
 
 
